@@ -79,3 +79,4 @@ $page_banner .="<input type='submit' value='确定'>";
 $page_banner .="</form>";
 echo $page_banner;
 ?>
+
