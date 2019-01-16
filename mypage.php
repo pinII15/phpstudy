@@ -78,3 +78,4 @@ $page_banner .="到第<input type='text' size='2' name='p'>页";
 $page_banner .="<input type='submit' value='确定'>";
 $page_banner .="</form>";
 echo $page_banner;
+?>
